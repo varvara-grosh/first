@@ -1,0 +1,32 @@
+html {
+    background-color: rgba(13.3,13.3,13.3);
+}
+nav {
+    width: 1280px;
+    height: 116px;
+    padding-top: 55px;
+    padding-right: 116px;
+    padding-left: 116px;
+    background-color: hotpink;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.logo {
+    size:initial;
+}
+
+.nav_link {
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 260px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 60px;
+}
+.buttom {
+    
+}
