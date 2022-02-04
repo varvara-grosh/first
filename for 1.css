@@ -10,6 +10,7 @@ nav {
     background-color: hotpink;
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: flex-start;
 }
 
@@ -24,9 +25,11 @@ nav {
     height: 60px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     margin-left: 60px;
 }
 .buttom {
-    
+    width: 60px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
 }
